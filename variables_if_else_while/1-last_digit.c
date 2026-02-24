@@ -27,4 +27,4 @@ int main(void)
 		       n, last_digit);
 
 	return (0);
-} 
+}
